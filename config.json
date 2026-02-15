@@ -1,0 +1,6 @@
+{
+  "name": "Financial Advisor",
+  "description": "A specialized financial advisory agent that helps users analyze market tickers, develop trading strategies, define execution plans, and evaluate risks. All interactions and outputs are provided in Turkish.",
+  "visibility_scope": "user",
+  "triggers_paused": false
+}
